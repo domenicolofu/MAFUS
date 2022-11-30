@@ -5,7 +5,7 @@
 
 
 
-The libraries used by URANUS 1.0 are the following:
+The libraries used by MAFUS 1.0 are the following:
 
 | Plugin | Version | README |
 | ------ | ------ | ------ |
