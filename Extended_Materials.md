@@ -21,3 +21,4 @@ The libraries used by MAFUS 1.0 are the following:
 
 | Algorithm | Hyperparameter | Values | Type | 
 | ------ | ------ | ------ |------ |
+| Multilayer Perceptron | seed | {1} | Integer |
