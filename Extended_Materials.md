@@ -43,6 +43,18 @@ The libraries used by MAFUS 1.0 are the following:
 |  | max_depth | {3, 21, 3} | Integer |
 |  | colsample_bytree | {1/10.0 for i in range(3,10)}  | Float |
 |  | reg_alpha | {1e-5, 1e-2, 0.1, 1, 10, 100}  | Float |
+| <b>Light Gradient Boosting</b> | seed | {1} | Integer |
+|  | learning_rate | {0.1, 0.005} | Float |
+|  | num_leaves | {3, 10, 31, 50, 100, 200} | Integer |
+|  | reg_alpha | {None, 0.01, 0.05, 0.1} | Float |
+|  | colsample_bytree | {0.6, 0.8, 1} | Float |
+|  | max_depth | {-1, 3, 5, 8, 10} | Integer |
+|  | reg_lambda | {None, 0.01, 0.02, 0.03} | Float |
+|  | n_estimators | {50, 100, 300} | Integer |
+
+
+
+
 
 
 
