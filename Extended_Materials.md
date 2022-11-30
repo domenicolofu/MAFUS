@@ -18,3 +18,6 @@ The libraries used by MAFUS 1.0 are the following:
 | Seaborn | 0.11.2 | [https://seaborn.pydata.org/] |
 | Scipy | 1.8.0 | [https://scipy.org/] |
 
+
+| Algorithm | Hyperparameter | Values | Type | 
+| ------ | ------ | ------ |------ |
