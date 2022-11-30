@@ -25,3 +25,6 @@ The libraries used by MAFUS 1.0 are the following:
 |  | hidden layer sizes | {(sp randint.rvs(100, 600, 1),<br> sp randint.rvs(100, 600, 1), <br> sp randint.rvs(100, 600, 1))} | Integer |
 |  | activation | {tanh, relu, lbfgs} | String |
 |  | solver | {sgd, adam, lbfgs} | String |
+|  | alpha | {0.0001, 0.001, 0.01, 0.1, 0.9} | Float |
+|  | learning_rate | {constant, adaptive} | String |
+
