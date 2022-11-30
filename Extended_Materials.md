@@ -33,6 +33,11 @@ The libraries used by MAFUS 1.0 are the following:
 |  | max_depth | {80, 90, 100, 110, 120, 130, 140, 150, None} | String |
 |  | criterion | {gini, entropy} | String |
 |  | class_weight | {balanced} | String |
+| <b>Support Vector Machine</b> | seed | {1} | Integer |
+|  | class_weight | {balanced} | String |
+|  | kernel | {rbf, linear} | String |
+|  | gamma | {1, 0.1, 0.001, 0.0001} | Float |
+
 
 
 
