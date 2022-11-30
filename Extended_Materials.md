@@ -4,7 +4,7 @@
 [![Apache2.0](https://img.shields.io/badge/Apache-2.0-<COLOR>.svg)](https://shields.io/) ![version](https://img.shields.io/badge/version-1.0-brightgreen) 
 
 
-The list below, reports explored hyperparameter values, list, and type for reproducibility:
+The table below, reports explored hyperparameter values, list, and type for reproducibility:
 
 
 | Algorithm | Hyperparameter | Values | Type | 
