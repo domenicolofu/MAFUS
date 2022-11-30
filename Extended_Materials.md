@@ -1,5 +1,5 @@
-# URANUS:
-<b>RF Tracking, Classification and Identification of Unmanned Aircraft Vehicles.</b>
+# MAFUS:
+<b>A Framework to predict mortality risk in MAFLD subjects.</b>
 
 [![Apache2.0](https://img.shields.io/badge/Apache-2.0-<COLOR>.svg)](https://shields.io/) ![version](https://img.shields.io/badge/version-1.0-brightgreen) 
 
