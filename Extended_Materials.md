@@ -23,3 +23,5 @@ The libraries used by MAFUS 1.0 are the following:
 | ------ | ------ | ------ |------ |
 | Multilayer Perceptron | seed | {1} | Integer |
 |  | hidden layer sizes | {(sp randint.rvs(100, 600, 1),<br> sp randint.rvs(100, 600, 1), <br> sp randint.rvs(100, 600, 1))} | Integer |
+|  | activation | {tanh, relu, lbfgs} | String |
+|  | solver | {sgd, adam, lbfgs} | String |
