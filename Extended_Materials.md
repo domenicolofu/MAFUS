@@ -29,5 +29,10 @@ The libraries used by MAFUS 1.0 are the following:
 |  | learning_rate | {constant, adaptive} | String |
 | <b>Random Forest</b> | seed | {1} | Integer |
 |  | n_estimators | {100, 200, 300, 400, 500} | String |
+|  | max_features | {auto, sqrt, log2} | String |
+|  | max_depth | {80, 90, 100, 110, 120, 130, 140, 150, None} | String |
+|  | criterion | {gini, entropy} | String |
+|  | class_weight | {balanced} | String |
+
 
 
