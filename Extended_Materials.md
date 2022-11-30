@@ -37,6 +37,12 @@ The libraries used by MAFUS 1.0 are the following:
 |  | class_weight | {balanced} | String |
 |  | kernel | {rbf, linear} | String |
 |  | gamma | {1, 0.1, 0.001, 0.0001} | Float |
+| <b>eXtreme Gradient Boosting</b> | seed | {1} | Integer |
+|  | gamma | {1, 0.1, 0.01, 0.001, 0.0001} | Float |
+|  | learning_rate | {0.0001, 0.001, 0.01, 0.1, 1} | Float |
+|  | max_depth | {3, 21, 3} | Integer |
+|  | colsample_bytree | {1/10.0 for i in range(3,10)}  | Float |
+|  | reg_alpha | {1e-5, 1e-2, 0.1, 1, 10, 100}  | Float |
 
 
 
