@@ -27,4 +27,7 @@ The libraries used by MAFUS 1.0 are the following:
 |  | solver | {sgd, adam, lbfgs} | String |
 |  | alpha | {0.0001, 0.001, 0.01, 0.1, 0.9} | Float |
 |  | learning_rate | {constant, adaptive} | String |
+| <b>Random Forest</b> | seed | {1} | Integer |
+|  | n_estimators | {100, 200, 300, 400, 500} | String |
+
 
